@@ -119,7 +119,7 @@ body{
 }
 
 .name-section{
-    background: url(/images/header-image.png);
+    background: url(images/header-image.png);
     height: 100vh;
     width: 100%;
     background-size:cover;
@@ -771,7 +771,7 @@ My Work
 
   @media screen and (max-width: 800px) {
     .name-section{
-        background: url(/images/header-image-sm.png);
+        background: url(images/header-image-sm.png);
         height: 100vh;
         width: 100%;
         background-size:cover;
