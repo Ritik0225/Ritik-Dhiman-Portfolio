@@ -1,0 +1,19 @@
+===BLACK COLORS===
+Rich black = #0D1821
+Night = 141414
+Davy's gray = #494850
+Raisin black = #2C2C34
+jet black = #363537
+
+===BLUE COLORS===
+Cerulean blue = #247BA0
+Celestial blue = #008DD5
+Persian blue = #172A3A
+Federal blue = #03045E
+Honolulu blue = #0077B6
+Duke blue = #2708A0
+persian blue2 = #192BC2
+
+===WHITE COLORS===
+Anti-flash White = #EBEBEB
+Baby powder white = #FDFFFC
